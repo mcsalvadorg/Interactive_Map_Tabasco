@@ -1,6 +1,6 @@
 This interactive map shows rainfall from 1921 to 2016 for the state of Tabasco, Mexico.
 
-https://public.tableau.com/app/profile/mcsalvadorg/viz/AnlisisdePrecipitacionesdeTabascoMxico_/ANLISISDEPRECIPITACIONESDETABASCOMEXICO_:display_count=y&:origin=viz_share_link
+https://public.tableau.com/views/AnlisisdePrecipitacionesdeTabascoMxico_/ANLISISDEPRECIPITACIONESDETABASCOMEXICO_?:language=es-ES&:sid=&:display_count=n&:origin=viz_share_link
 
 This information was collected from weather stations in the CLICOM database.
 
